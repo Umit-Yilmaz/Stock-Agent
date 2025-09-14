@@ -209,10 +209,11 @@ Modify the CSS in `templates/index.html` to customize the appearance.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-![Uploading Adsız tasarım (4).gif…]()
 
+![mvp-gif](https://github.com/user-attachments/assets/d3b64fa1-0f74-4a8e-8e1f-40be492f372f)
 
 ---
+
 
 
 
