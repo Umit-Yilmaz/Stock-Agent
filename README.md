@@ -209,14 +209,10 @@ Modify the CSS in `templates/index.html` to customize the appearance.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Acknowledgments
+![Uploading Adsız tasarım (4).gif…]()
 
-- **PraisonAI**: For the agent framework and MCP integration
-- **Ollama**: For local LLM capabilities
-- **Yahoo Finance**: For stock data API
-- **Bootstrap**: For the responsive UI framework
-- **Qwen Team**: For the efficient 1.7b language model
 
 ---
+
 
 
